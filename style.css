@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Sono', sans-serif;
+    background-image: linear-gradient(aquamarine, white);
+    font-size: 30px;
+    color: #804674;
+
+}
+
+.top-container{
+    
+    position: relative;
+    padding-top: 100px;
+       
+}
+
+#pythonGif{
+    background-image: linear-gradient(aquamarine, white);
+}
+
+.middle-container{
+
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.bottom-container{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+
+
+span.soft{
+    text-decoration: underline;
+}
+
+
+.top-cloud{
+    position:absolute;
+    right: 400px;
+    top: 10px;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left:200px;
+    bottom: 250px;
+}
+
+
+table{
+    width: 50%;
+    border: 2px solid;
+    border-radius: 20px;
+    border-spacing: 3px;
+}
+
+.profile-photo{
+    border-radius: 100%;
+}
+
+th{
+    border:1px solid;
+    border-style: solid;
+    
+}
+
+td{
+    border:1px;
+    border-radius: 1px;
+    border-style:solid;
+}
+
+.skills-list{
+    height:500px;
+    color: rgb(52, 134, 52);
+    background-image:url("Gifs/code.gif");
+    background-repeat:no-repeat; 
+   
+}
+
+
+/*Table headers decoration*/
+#firstRow{
+    color: rebeccapurple;
+}
+
+#secondRow{
+    color: rebeccapurple;
+}
+
+#thirdRow{
+    color: rebeccapurple;
+}
+
+div.favourite-programming-lang.python
+{
+    float: right;
+    
+}
+
+.bottom-container{
+    background-image: linear-gradient(90deg, lightblue, white);
+}
+
